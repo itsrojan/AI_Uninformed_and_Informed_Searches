@@ -3,7 +3,7 @@
 
 ## Description:
 
-Use **`A* algorithm and one uninformed search algorithm`**(BFS) of your choice to search for a path given a pair of source and destination cities.
+Use **`A* algorithm and one uninformed search algorithm (BFS)`** of your choice to search for a path given a pair of source and destination cities.
 
 We assume that connected cities have a straight path between them.
 
